@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "241173725281",
+    "project_id": "projectmanagement-54fa2",
+    "storage_bucket": "projectmanagement-54fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241173725281:android:2050bc3d6d53c777bfaa20",
+        "android_client_info": {
+          "package_name": "com.mycompany.survivalguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241173725281-4ve0e09v8rv38hce29fpinhdslqnleja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.survivalguide",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "241173725281-4tvajo5hs8i9f15p4kdaco0nsunpcsqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA3T9eRfa5RqA3mGtquKsY70CCNdzjPBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241173725281-4tvajo5hs8i9f15p4kdaco0nsunpcsqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241173725281-e5n3jsf60r38slkhig7s7f7oqbmu0glo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.survivalguide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
